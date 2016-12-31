@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ahmed Yunis		yunisahmed@aol.com		@ahy2016
 
 # THANKS
 
